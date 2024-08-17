@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "383929927836",
+    "project_id": "room-rent-dad49",
+    "storage_bucket": "room-rent-dad49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383929927836:android:528c2a78e9a705cec14559",
+        "android_client_info": {
+          "package_name": "com.prithivisharma.Room_Rent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383929927836-c9jdmufecp1qpcofj859s8m8cka1uc5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prithivisharma.Room_Rent",
+            "certificate_hash": "4cbb9fa0301000e9f7b275390558ae8dd76084b1"
+          }
+        },
+        {
+          "client_id": "383929927836-d79t3o4qol7j8uj66ogm2i8qeg2dkil1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbHrr3aeWSVY3wIZ_kM0Hc7FdrcwWgoa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383929927836-d79t3o4qol7j8uj66ogm2i8qeg2dkil1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
