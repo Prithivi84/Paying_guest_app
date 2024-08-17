@@ -1,8 +1,6 @@
-# Shop Cart
+# Guest_App
 
-A React Native application that fetches product data from the API, displays it using
-FlatList, and allows users to view detailed information in a modal. Implement Redux to
-manage the state for incrementing and decrementing the quantity of each product.
+A React Native application that control the guest details and their payment details.
 
 ## Getting Started
 
